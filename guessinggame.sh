@@ -1,4 +1,4 @@
-function guessinggamee {
+function guessinggame {
 
 local count=$( ls . | wc -w )
 local cndn=1
